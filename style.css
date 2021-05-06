@@ -1,0 +1,28 @@
+.container{
+    width: 670px;
+    margin: 0 auto;
+}
+img{
+    border-radius: 4px;
+}
+.text-center{
+    text-align: center;
+}
+#input{
+    border: none;
+}
+.copy-section, .copy-btn{
+    width: 50%;
+    float: left;
+}
+input:focus{
+    border: none;
+    outline: none;
+}
+#copy{
+    width: 50%;
+   
+}
+input::selection{
+    background: none;
+}
